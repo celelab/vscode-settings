@@ -1,0 +1,20 @@
+{
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "workbench.editor.languageDetection": true,
+  "window.titleBarStyle": "custom",
+  "editor.fontFamily": "'Cascadia Code PL', Arial",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "window.zoomLevel": 1,
+  "files.autoSave": "afterDelay",
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "oneDarkPro.bold": true,
+  "oneDarkPro.italic": true,
+  "oneDarkPro.vivid": true,
+  "telemetry.telemetryLevel": "off"
+}
